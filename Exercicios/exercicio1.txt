@@ -1,1 +1,20 @@
-Apenas como teste.
+Um fabricante brasileiro de cosméticos produz sabonete líquido, dentre vários outros produtos e disponibiliza no mercado brasileiro seu sabonete em embalagens de 250 ml e 750 ml. Após um estudo de mercado, a empresa decidiu entrar no mercado estadunidense. No entanto, a unidade de volume mais utilizada nos Estados Unidos é a onça fluida (floz), sendo necessário assim adaptar suas embalagens. Por uma questão de economia, nas embalagens constará o volume do produto em ml e em floz.
+
+ 
+
+Portanto, sabendo que 1 L corresponde a 33,814 floz, nas novas embalagens teremos, respectivamente,
+
+a)
+250 ml (8.45 floz) e 750 ml (25.36 floz).
+
+ b)
+250 ml (6 floz) e 750 ml (18 floz).
+
+ c)
+250 ml (2,5 floz) e 750 ml (7.5 floz).
+
+ d)
+250 ml (5 floz) e 750 ml (15 floz).
+
+ e)
+250 ml (3.38 floz) e 750 ml (10 floz).
